@@ -1,0 +1,15 @@
+D:\web geliştirme eğitimi\ilk_deneme-c#\oop\quiz-app\bin\Debug\net6.0\quiz-app.exe
+D:\web geliştirme eğitimi\ilk_deneme-c#\oop\quiz-app\bin\Debug\net6.0\quiz-app.deps.json
+D:\web geliştirme eğitimi\ilk_deneme-c#\oop\quiz-app\bin\Debug\net6.0\quiz-app.runtimeconfig.json
+D:\web geliştirme eğitimi\ilk_deneme-c#\oop\quiz-app\bin\Debug\net6.0\quiz-app.dll
+D:\web geliştirme eğitimi\ilk_deneme-c#\oop\quiz-app\bin\Debug\net6.0\quiz-app.pdb
+D:\web geliştirme eğitimi\ilk_deneme-c#\oop\quiz-app\obj\Debug\net6.0\quiz-app.csproj.AssemblyReference.cache
+D:\web geliştirme eğitimi\ilk_deneme-c#\oop\quiz-app\obj\Debug\net6.0\quiz-app.GeneratedMSBuildEditorConfig.editorconfig
+D:\web geliştirme eğitimi\ilk_deneme-c#\oop\quiz-app\obj\Debug\net6.0\quiz-app.AssemblyInfoInputs.cache
+D:\web geliştirme eğitimi\ilk_deneme-c#\oop\quiz-app\obj\Debug\net6.0\quiz-app.AssemblyInfo.cs
+D:\web geliştirme eğitimi\ilk_deneme-c#\oop\quiz-app\obj\Debug\net6.0\quiz-app.csproj.CoreCompileInputs.cache
+D:\web geliştirme eğitimi\ilk_deneme-c#\oop\quiz-app\obj\Debug\net6.0\quiz-app.dll
+D:\web geliştirme eğitimi\ilk_deneme-c#\oop\quiz-app\obj\Debug\net6.0\refint\quiz-app.dll
+D:\web geliştirme eğitimi\ilk_deneme-c#\oop\quiz-app\obj\Debug\net6.0\quiz-app.pdb
+D:\web geliştirme eğitimi\ilk_deneme-c#\oop\quiz-app\obj\Debug\net6.0\quiz-app.genruntimeconfig.cache
+D:\web geliştirme eğitimi\ilk_deneme-c#\oop\quiz-app\obj\Debug\net6.0\ref\quiz-app.dll
